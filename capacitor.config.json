@@ -1,0 +1,8 @@
+{
+  "appId": "com.fermeos.app",
+  "appName": "FermeOS",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
